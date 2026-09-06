@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hello,%20I'm%20Jose%20Errando%20Saputra&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=58&descSize=18&descColor=ffffff" alt="Header Banner" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
-<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN2aHNlM2RhYXpxOGliN3RhcGh6ejU1YWRmeHV2aDJ6dnZvbTR4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KAGNjQwiadTJw0eLs2/giphy.gif" width="25" height="25" alt="Contact animation"/> Connect With Me</h2>
+<h2><img src="img/contact_me.gif" width="25" height="25" alt="Contact animation"/> Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/joseerrando">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,7 +11,7 @@
 </a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" alt="Waving hand animation"/> About Me</h2>
+<h2><img src="img/aboutme.gif" width="25" height="25" alt="Waving hand animation"/> About Me</h2>
 
 Fullstack Developer focused on building clean, maintainable web applications.
 
@@ -21,7 +21,7 @@ Fullstack Developer focused on building clean, maintainable web applications.
 - 📫 Reach me via LinkedIn or email above
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="25" height="25" alt="Coding animation"/> Tech Stack</h2>
+<h2><img src="img/tech_stack.gif" width="25" height="25" alt="Coding animation"/> Tech Stack</h2>
 
 **Frontend**
 
