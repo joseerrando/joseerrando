@@ -6,10 +6,10 @@
 
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN2aHNlM2RhYXpxOGliN3RhcGh6ejU1YWRmeHV2aDJ6dnZvbTR4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KAGNjQwiadTJw0eLs2/giphy.gif" width="25" height="25" alt="Contact animation"/> Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/joseerrando">
+<a href="https://www.linkedin.com/in/joseerrando" style="padding-right:3px">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:errandojose03@gmail.com">
+<a href="mailto:errandojose03@gmail.com" style="padding-right:3px">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -51,6 +51,7 @@ Fullstack Developer focused on building clean, maintainable web applications.
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=joseerrando&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub statistics" width="410"/>
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joseerrando&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="Top languages" width="410"/>
 
 </div>
