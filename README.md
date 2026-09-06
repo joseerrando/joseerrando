@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hello,%20I'm%20Jose%20Errando%20Saputra&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=58&descSize=18&descColor=ffffff" alt="Header Banner" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
-<h2><img src="img/contact_me.gif" width="30" height="30" alt="Contact animation"/> Connect With Me</h2>
+<h2><img src="img/contact_me.gif" width="40" height="40" alt="Contact animation"/> Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/joseerrando">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,7 +11,7 @@
 </a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
-<h2><img src="img/aboutme.gif" width="30" height="30" alt="Waving hand animation"/> About Me</h2>
+<h2><img src="img/aboutme.gif" width="40" height="40" alt="Waving hand animation"/> About Me</h2>
 
 Fullstack Developer focused on building clean, maintainable web applications.
 
@@ -21,7 +21,7 @@ Fullstack Developer focused on building clean, maintainable web applications.
 - 📫 Reach me via LinkedIn or email above
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
-<h2><img src="img/tech_stack.gif" width="30" height="30" alt="Coding animation"/> Tech Stack</h2>
+<h2><img src="img/tech_stack.gif" width="40" height="40" alt="Coding animation"/> Tech Stack</h2>
 
 **Frontend**
 
