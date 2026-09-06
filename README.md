@@ -48,10 +48,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-	<img src="https://github-readme-stats.shion.dev/api?username=joseerrando&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub statistics" />
-	<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joseerrando&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
-</p>
+<table>
+	<tr>
+		<td width="50%">
+			<img src="https://github-readme-stats.shion.dev/api?username=joseerrando&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub statistics" width="100%" />
+		</td>
+		<td width="50%">
+			<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joseerrando&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" width="100%" />
+		</td>
+	</tr>
+</table>
 
 <!-- <p align="center">
 	<img src="https://streak-stats.demolab.com/?user=joseerrando&theme=merko&hide_border=false" alt="GitHub contribution streak" />
