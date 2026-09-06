@@ -16,7 +16,7 @@
 Fullstack Developer focused on building clean, maintainable web applications.
 
 - 🌱 Currently learning **Golang**
-- 💻 Always eager to improve how I build websites — better structure, better practices, better results
+- 💻 Always eager to improve how I build websites better structure, better practices, better results
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me via LinkedIn or email above
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
