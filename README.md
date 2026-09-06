@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Hello,%20I'm%20Jose%20Errando%20Saputra&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=58&descSize=18&descColor=ffffff" alt="Header Banner" width="100%"/>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
 <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTN2aHNlM2RhYXpxOGliN3RhcGh6ejU1YWRmeHV2aDJ6dnZvbTR4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KAGNjQwiadTJw0eLs2/giphy.gif" width="25" height="25" alt="Contact animation"/> Connect With Me</h2>
@@ -13,8 +11,6 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" alt="Waving hand animation"/> About Me</h2>
@@ -25,8 +21,6 @@ Fullstack Developer focused on building clean, maintainable web applications.
 - 💻 Always eager to improve how I build websites — better structure, better practices, better results
 - 🤝 Open to collaborating on interesting projects
 - 📫 Reach me via LinkedIn or email above
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
@@ -44,8 +38,6 @@ Fullstack Developer focused on building clean, maintainable web applications.
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,nginx" alt="Databases and infrastructure"/>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25" height="25" alt="Stats animation"/> GitHub Stats</h2>
@@ -56,8 +48,6 @@ Fullstack Developer focused on building clean, maintainable web applications.
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joseerrando&theme=tokyonight&hide_border=true&count_private=true&layout=compact" alt="Top languages" width="410"/>
 
 </div>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
