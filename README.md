@@ -12,7 +12,7 @@
 <a href="mailto:errandojose03@gmail.com" style="padding-right:3px">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&animation=fadeIn" width="100%"/>
 
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" alt="Waving hand animation"/> About Me</h2>
